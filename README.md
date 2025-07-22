@@ -17,3 +17,6 @@ Total quantities of book sold by each author.
 Stock remaining and many more.
 
 ## SAMPLE DATA
+customers dataset
+books dataset
+orders dataset
